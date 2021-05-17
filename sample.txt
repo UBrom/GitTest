@@ -1,0 +1,4 @@
+this is my new text-file
+I am learning to use cat in unix at the same time
+how cool is that!
+
